@@ -1,21 +1,86 @@
- 💫 About Me:
- Hi, I'm Shivam 👋<br><br>🎓 B.Tech in Computer Science & Engineering  <br>💡 Exploring the intersection of **Full Stack Development** and **Web3 / Blockchain**  <br>🔗 Building on Ethereum | Writing smart contracts in **Solidity** | Testing on **Remix IDE**  <br>🐍 Comfortable with **Python** and **Java**  <br>📖 Currently learning: Decentralized application (dApp) development  <br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Languages:** Python · Java · Solidity  <br>**Blockchain:** Ethereum · Smart Contracts · Remix IDE  <br>**Exploring:** Web3.js · dApp Architecture · Full Stack Development  <br><br>---<br><br>## 🚀 What I'm Up To<br><br>- 🔨 Building decentralized applications as part of my coursework and beyond  <br>- 📚 Deepening my understanding of blockchain internals and smart contract security  <br>- 🌱 Growing my skills in full stack development to bridge Web2 and Web3  <br><br>---<br><br>## 📫 Let's Connect<br><br>Always open to collaborating on interesting blockchain or dev projects.  <br>Feel free to explore my repos and drop a ⭐ if something catches your eye!
+<div align="center">
 
-🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shivam Sharma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivam_sharma.k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivam Kashyap) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Shivam_Sharma_K) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shivam96639) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivamkashyap9742@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=180&section=header&text=Shivam%20Kashyap&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Building%20on%20the%20edge%20of%20Web2%20%26%20Web3&descAlignY=60&descSize=16&descColor=aaaaaa" width="100%"/>
 
- 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShivamKashyap966&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShivamKashyap966&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKashyap966&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=ShivamKashyap966&icon=0&color=12)](https://visitcount.itsvg.in)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=3000&pause=800&color=CCCCCC&center=true&vCenter=true&width=520&lines=B.Tech+CSE+%E2%80%94+Blockchain+Technology;Building+EDITKAR+%E2%80%94+AI+Video+Editing+SaaS;Solidity+%C2%B7+Ethereum+%C2%B7+Full+Stack+Dev;Always+shipping+something." alt="Typing SVG" />
+</a>
 
-💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@ShivamKashyap248) 
+<br/><br/>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://linkedin.com/in/Shivam-Kashyap"><img src="https://img.shields.io/badge/-LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=ffffff" /></a>
+<a href="https://x.com/Shivam96639"><img src="https://img.shields.io/badge/-X-0d0d0d?style=flat-square&logo=x&logoColor=ffffff" /></a>
+<a href="https://instagram.com/shivam_sharma.k"><img src="https://img.shields.io/badge/-Instagram-0d0d0d?style=flat-square&logo=instagram&logoColor=ffffff" /></a>
+<a href="mailto:shivamkashyap9742@gmail.com"><img src="https://img.shields.io/badge/-Email-0d0d0d?style=flat-square&logo=gmail&logoColor=ffffff" /></a>
+
+</div>
+
+<br/>
+
+### ⌁ about
+
+Second-year CS student focused on **Blockchain Technology**, currently building **EDITKAR** — an AI-powered video editing platform — end to end: architecture, backend, and brand.
+
+Comfortable moving between smart contracts and full-stack product work.
+
+<br/>
+
+### ⌁ stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-Solidity-0d0d0d?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ethereum-0d0d0d?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/-React-0d0d0d?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/-Next.js-0d0d0d?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-0d0d0d?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/-Figma-0d0d0d?style=flat-square&logo=figma&logoColor=white" />
+
+</div>
+
+<br/>
+
+### ⌁ currently
+
+```
+building   → EDITKAR (AI video editing SaaS)
+exploring  → dApp architecture, Web3.js
+learning   → smart contract security
+```
+
+<br/>
+
+### ⌁ stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShivamKashyap966&show_icons=true&theme=transparent&hide_border=true&title_color=cccccc&icon_color=888888&text_color=888888" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKashyap966&layout=compact&theme=transparent&hide_border=true&title_color=cccccc&text_color=888888" height="165" />
+
+</div>
+
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=ShivamKashyap966&theme=transparent&hide_border=true&stroke=333333&ring=888888&fire=cccccc&currStreakLabel=cccccc" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+<sub>currently shipping · <a href="mailto:shivamkashyap9742@gmail.com">say hi</a></sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
