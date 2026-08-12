@@ -5,14 +5,14 @@
 </div> <br/>
 ⌁ about
 
-Second-year CS student (Blockchain Technology) who moves between smart contracts and full-stack product work. I've shipped multiple blockchain builds — decentralized voting on Ethereum, a land registry system, and comparative work on Hyperledger Fabric — and right now I'm building two AI-powered full-stack products end to end: architecture, backend, and brand.
+Third-year CS student with specialization in (Blockchain Technology) who moves between smart contracts and full-stack product work. I've shipped multiple blockchain builds — decentralized voting on Ethereum, a land registry system, and comparative work on Hyperledger Fabric — and right now I'm building two AI-powered full-stack products end to end: architecture, backend, and brand.
 
 <br/>
 ⌁ currently building
 
-EDITKAR — an AI video editing SaaS that edits and processes multiple videos with no human intervention. Podcast clipping pipelines, YouTube Studio integration, Stripe/Razorpay payments, AWS S3 + Redis + BullMQ infra, FFmpeg/Remotion rendering. Building this solo across a 10-phase PRD, from schema to brand identity.
+-EDITKAR — an AI video editing SaaS that edits and processes multiple videos with no human intervention. Podcast clipping pipelines, YouTube Studio integration, Stripe/Razorpay payments, AWS S3 + Redis + BullMQ infra, FFmpeg/Remotion rendering. Building this solo across a 10-phase PRD, from schema to brand identity.
 
-EV Carwale — a CarDekho-style discovery platform, but built specifically for EVs, in collaboration with Impact India. Worked across both backend and frontend to bring the platform to life.
+-EV Carwale — a CarDekho-style discovery platform, but built specifically for EVs, in collaboration with Impact India. Worked across both backend and frontend to bring the platform to life.
 
 <br/>
 ⌁ blockchain work
