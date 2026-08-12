@@ -5,7 +5,7 @@
 </div> <br/>
 ⌁ about
 
-Third-year CS student with specialization in (Blockchain Technology) who moves between smart contracts and full-stack product work. I've shipped multiple blockchain builds — decentralized voting on Ethereum, a land registry system, and comparative work on Hyperledger Fabric — and right now I'm building two AI-powered full-stack products end to end: architecture, backend, and brand.
+Third-year CS student with specialization in (Blockchain Technology) who moves between smart contracts and full-stack product work. I've shipped multiple blockchain builds like decentralized voting on Ethereum, a land registry system, and comparative work on Hyperledger Fabric and right now I'm building two AI-powered full-stack products end to end: architecture, backend, and brand.
 
 <br/>
 ⌁ currently building
