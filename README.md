@@ -8,19 +8,23 @@
 Third-year CS student with specialization in (Blockchain Technology) who moves between smart contracts and full-stack product work. I've shipped multiple blockchain builds like decentralized voting on Ethereum, a land registry system, and comparative work on Hyperledger Fabric and right now I'm building two AI-powered full-stack products end to end: architecture, backend, and brand.
 
 <br/>
-⌁ currently building
+⌁ Currently building
 
 -EDITKAR : an AI video editing SaaS that edits and processes multiple videos with no human intervention. Podcast clipping pipelines, YouTube Studio integration, Stripe/Razorpay payments, AWS S3 + Redis + BullMQ infra, FFmpeg/Remotion rendering. Building this solo across a 10-phase PRD, from schema to brand identity.
 
 -EV Carwale : a CarDekho-style discovery platform, but built specifically for EVs, in collaboration with Impact India. Worked across both backend and frontend to bring the platform to life.
 
 <br/>
-⌁ blockchain work
+⌁ Blockchain work
+
 -GOTHAM VOTE : a Batman-themed decentralized voting DApp on Ethereum (Sepolia testnet). Solo-built: Solidity contract with admin-controlled candidate registration, whitelisted voting, duplicate-vote prevention via mappings, and a MetaMask + Web3.js frontend for live on-chain results.
 
 -Blockchain Land Registry : Solidity-based registry system with ownership-controlled access and full technical documentation.
-Decentralized Voting System : a second voting contract project with ownership-based access control, edge-case testing in Remix IDE's JS VM, and IEEE-format documentation.
-Hyperledger Fabric vs. Ethereum : a comparative case study on permissioning models, consensus (PBFT vs. PoW/PoS), and throughput for enterprise blockchain adoption.
+
+-Decentralized Voting System : a second voting contract project with ownership-based access control, edge-case testing in Remix IDE's JS VM, and IEEE-format documentation.
+
+-Hyperledger Fabric vs. Ethereum : a comparative case study on permissioning models, consensus (PBFT vs. PoW/PoS), and throughput for enterprise blockchain adoption.
+
 <br/>
 ⌁ stack
 <div align="center"> <img src="https://img.shields.io/badge/-Solidity-1a1a1a?style=flat-square&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/-Ethereum-1a1a1a?style=flat-square&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/-React-1a1a1a?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/-Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS-1a1a1a?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/-Figma-1a1a1a?style=flat-square&logo=figma&logoColor=white" /> </div> <br/>
