@@ -22,9 +22,11 @@ I’m driven by curiosity and a simple philosophy: **learn deeply, build relentl
 
 ⌁ currently building
 
-EDITKAR
+### EDITKAR
 
-An AI video editing SaaS that edits and processes multiple videos without any human intervention. It covers podcast clipping pipelines, YouTube Studio integration, Stripe and Razorpay payments, and runs on AWS S3, Redis, and BullMQ, with FFmpeg and Remotion handling rendering. Building this solo, end to end, across a 10-phase product roadmap, from database schema to brand identity.
+An AI powered video editing SaaS designed to automate end to end video processing without human intervention. The platform supports **podcast clipping pipelines, YouTube Studio integration, Stripe and Razorpay payments**, and a scalable infrastructure built with **AWS S3, Redis, and BullMQ**.
+
+Video processing and rendering are powered by **FFmpeg and Remotion**, enabling automated and efficient media workflows. Built independently from the ground up, the product spans a **10 phase development roadmap**, covering everything from **database architecture and backend systems to product engineering, automation, and brand identity**.
 
 <br/>
 
