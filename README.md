@@ -62,13 +62,17 @@ A comparative case study on permissioning models, consensus mechanisms (PBFT ver
 
 ⌁ research
 
-Game-Theoretic and AI-Based Modeling of Depression in Digital and Social Environments
+### Game Theoretic and AI Based Modeling of Depression in Digital and Social Environments
 
-An independent, in-depth research study built on a systematic review of 30 peer-reviewed papers published between 2013 and 2023, sitting at the intersection of AI, natural language processing, and game theory.
+An independent research study at the intersection of **artificial intelligence, natural language processing, and game theory**, based on a systematic review of **30 peer reviewed studies published between 2013 and 2023**.
 
-Depression affects an estimated 280 million people worldwide, and its prevalence has risen sharply among young adults and adolescents since the COVID-19 pandemic. Platforms like Twitter, Reddit, and Instagram have become central to how people express and experience mental health struggles, generating continuous behavioral signals that traditional, episodic clinical assessments often miss.
+The study examines how digital platforms such as Twitter, Reddit, and Instagram have become important environments for the expression and detection of mental health patterns, while highlighting a critical limitation of existing AI systems: models that perform effectively on clean, curated datasets often struggle with the noise, linguistic diversity, and behavioral complexity of real world social data.
 
-The core finding: AI models that perform well on clean, curated datasets consistently break down on noisy, real-world, linguistically diverse data. To close that gap, the paper proposes GT-AID (Game-Theoretic and AI-based Depression detection), a unified framework combining noise-resilient preprocessing, transformer and recurrent neural models, and game-theoretic interaction modeling for both detection and intervention. In testing, GT-AID held up far more reliably across real-world conditions than existing approaches. Simulations on a synthetic social network also showed that structured interventions, especially peer-based alerts, meaningfully reduce patterns of social withdrawal, reinforcing the case for pairing behavioral data with social interaction modeling in practical mental health AI systems.
+To address this gap, the research proposes **GT AID (Game Theoretic and AI based Depression Detection)**, a unified framework integrating **noise resilient preprocessing, transformer and recurrent neural architectures, and game theoretic interaction modeling** for depression detection and intervention.
+
+Evaluation under simulated real world conditions demonstrated improved robustness compared with conventional approaches. Simulations on a synthetic social network further explored structured intervention strategies, with **peer based alerts showing meaningful potential for reducing patterns of social withdrawal**.
+
+The study ultimately explores how combining **AI driven behavioral analysis with social interaction modeling** can contribute to more robust and context aware approaches to mental health technology.
 
 <br/><br/>
 
