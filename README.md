@@ -7,8 +7,16 @@
 <br/><br/>
 
 ⌁ about
+### About Me
 
-Third-year CS student specializing in Blockchain Technology, working across smart contracts and full-stack product development. I've shipped several blockchain projects, including a decentralized voting system on Ethereum, a land registry platform, and comparative research on Hyperledger Fabric. Right now, I'm building two AI-powered full-stack products from the ground up, covering architecture, backend, and brand.
+Third-year Computer Science student and **full-stack developer** with a strong interest in **AI, product engineering, and modern web technologies**.
+
+I build digital products from the ground up, working across **frontend, backend, APIs, UI/UX, and application architecture**. My technical toolkit includes **React, TypeScript, JavaScript, HTML, CSS, Node.js, REST APIs, Git**, and other modern development technologies.
+
+I’ve built and contributed to products spanning **EV technology, AI-powered platforms, and web applications**, with a particular focus on creating experiences that are intuitive, scalable, and purposeful.
+
+I’m driven by curiosity and a simple philosophy: **learn deeply, build relentlessly, and turn ambitious ideas into products people can actually use.**
+
 
 <br/><br/>
 
