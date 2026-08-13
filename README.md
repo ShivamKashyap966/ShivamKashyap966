@@ -74,9 +74,14 @@ A **Solidity based decentralized voting system** focused on ownership based acce
 
 <br/>
 
-Hyperledger Fabric vs. Ethereum
+### HYPERLEDGER FABRIC VS. ETHEREUM
 
-A comparative case study on permissioning models, consensus mechanisms (PBFT versus PoW/PoS), and throughput, weighing both platforms for enterprise blockchain adoption.
+A **comparative blockchain case study** examining **Hyperledger Fabric and Ethereum** across permissioning models, consensus mechanisms, and network performance.
+
+The study compares **PBFT based consensus with Ethereum’s PoW and PoS models**, while evaluating differences in **throughput, scalability, security, and suitability for enterprise blockchain adoption**.
+
+**Skills:** Blockchain Research, Hyperledger Fabric, Ethereum, Consensus Mechanisms, PBFT, PoW, PoS, Enterprise Blockchain, Comparative Analysis, Technical Research
+
 
 <br/><br/>
 
