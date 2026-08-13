@@ -65,9 +65,12 @@ Developed smart contract functionality with **ownership controlled access**, ena
 
 <br/>
 
-Decentralized Voting System
+### DECENTRALIZED VOTING SYSTEM
 
-A second voting contract project centered on ownership-based access control, with edge-case testing done in Remix IDE's JavaScript VM and documentation written in IEEE format.
+A **Solidity based decentralized voting system** focused on ownership based access control and secure voting logic. Tested edge cases using **Remix IDE JavaScript VM** and documented the system following **IEEE format**.
+
+**Skills:** Solidity, Smart Contracts, Ethereum, Remix IDE, Blockchain Development, Access Control, IEEE Documentation
+
 
 <br/>
 
