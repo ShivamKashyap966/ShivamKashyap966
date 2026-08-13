@@ -54,8 +54,14 @@ Worked across the complete development and deployment workflow, including **Ethe
 <br/>
 
 Blockchain Land Registry
+### DECENTRALIZED LAND REGISTRY
 
-A Solidity-based land registry system with ownership-controlled access, backed by complete technical documentation.
+A **Solidity based decentralized land registry system** designed to provide transparent and secure ownership management through blockchain technology.
+
+Developed smart contract functionality with **ownership controlled access**, enabling authorized users to manage and verify land ownership records while maintaining data integrity and transparency on chain. The project was supported by **comprehensive technical documentation** covering the system architecture, smart contract logic, functionality, and implementation details.
+
+**Skills:** Solidity, Ethereum, Smart Contracts, Blockchain Development, DApp Development, Access Control, Decentralized Systems, Web3, Technical Documentation
+
 
 <br/>
 
