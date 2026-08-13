@@ -42,9 +42,14 @@ Contributed across both **frontend and backend development**, working on **respo
 
 ⌁ blockchain work
 
-GOTHAM VOTE
+### GOTHAM VOTE
 
-A Batman-themed decentralized voting DApp, built solo and deployed on the Ethereum Sepolia testnet. The Solidity contract handles admin-controlled candidate registration and whitelisted voting, blocks duplicate votes through mappings, and connects to a MetaMask and Web3.js frontend for live, on-chain results.
+A **Batman themed decentralized voting DApp** built independently and deployed on the **Ethereum Sepolia testnet**, demonstrating secure, transparent, and tamper resistant on chain voting.
+
+Developed the smart contract in **Solidity** with admin controlled candidate registration, whitelisted voter access, and mapping based safeguards to prevent duplicate voting. Built the frontend using **Web3.js** and integrated **MetaMask** for wallet connectivity and transaction signing, enabling users to interact directly with the Ethereum network and view live on chain voting results.
+
+Worked across the complete development and deployment workflow, including **Ethereum IDE, Solidity smart contract development, Sepolia testnet deployment, Sepolia faucet for test ETH, MetaMask wallet integration, Web3.js, blockchain transactions, smart contract interaction, and decentralized application development**.
+
 
 <br/>
 
