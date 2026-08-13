@@ -30,9 +30,13 @@ Video processing and rendering are powered by **FFmpeg and Remotion**, enabling 
 
 <br/>
 
-EV Carwale
+### EV Carwale
 
-A CarDekho-style discovery platform built specifically for electric vehicles, developed in collaboration with Impact India. Worked across both the backend and frontend to bring the platform to life.
+A **CarDekho inspired electric vehicle discovery platform** developed in collaboration with **Impact India**, designed to help users explore, compare, and discover electric vehicles through a focused digital experience.
+
+Contributed across both **frontend and backend development**, working on **responsive UI/UX, feature development, API integration, database driven functionality, debugging, and performance optimization** to bring the platform to life.
+
+**Skills:** React, JavaScript, HTML, CSS, Node.js, REST APIs, Git, UI/UX, Full Stack Development, API Integration
 
 <br/><br/>
 
