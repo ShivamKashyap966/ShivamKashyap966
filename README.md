@@ -40,7 +40,7 @@ Contributed across both **frontend and backend development**, working on **respo
 
 **Skills:** React, JavaScript, HTML, CSS, Node.js, REST APIs, Git, UI/UX, Full Stack Development, API Integration
 
-You can check EVCarwale on - https://www.evcarwale.com/
+You can check out EVCarwale on - https://www.evcarwale.com/
 
 <br/><br/>
 
