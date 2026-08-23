@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-⌁ about
+⌁ About
 ### About Me
 
 Third-year Computer Science student and **full-stack developer** with a strong interest in **AI, product engineering, and modern web technologies**.
@@ -20,7 +20,7 @@ I’m driven by curiosity and a simple philosophy: **learn deeply, build relentl
 
 <br/><br/>
 
-⌁ currently building
+⌁ Currently Working on 
 
 ### EDITKAR
 
@@ -44,7 +44,7 @@ You can check out EVCarwale on - https://www.evcarwale.com/
 
 <br/><br/>
 
-⌁ blockchain work
+⌁ Blockchain work
 
 ### GOTHAM VOTE
 
@@ -89,7 +89,7 @@ The study compares **PBFT based consensus with Ethereum’s PoW and PoS models**
 
 <br/><br/>
 
-⌁ research
+⌁ Research
 
 ### Game Theoretic and AI Based Modeling of Depression in Digital and Social Environments
 
@@ -105,15 +105,15 @@ The study ultimately explores how combining **AI driven behavioral analysis with
 
 <br/><br/>
 
-⌁ stack
+⌁ Stack
 <div align="center"> <img src="https://img.shields.io/badge/-Solidity-1a1a1a?style=flat-square&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/-Ethereum-1a1a1a?style=flat-square&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-1a1a1a?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/-React-1a1a1a?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/-Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS-1a1a1a?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/-Figma-1a1a1a?style=flat-square&logo=figma&logoColor=white" /> </div>
 
 <br/><br/>
 
-⌁ stats
+⌁ Stats
 <div align="center"> <img src="https://streak-stats.demolab.com?user=ShivamKashyap966&theme=dark&hide_border=true&background=1a1a1a&ring=aaaaaa&fire=CCCCCC&currStreakLabel=CCCCCC" /> </div>
 
 <br/><br/>
 
-⌁ support
+⌁ Support
 <div align="center"> <a href="https://paypal.me/@ShivamKashyap248"><img src="https://img.shields.io/badge/-Donate%20via%20PayPal-1a1a1a?style=for-the-badge&logo=paypal&logoColor=white" /></a> </div> <br/> <div align="center"> <sub>currently shipping · <a href="mailto:shivamkashyap9742@gmail.com">say hi</a></sub> </div>
