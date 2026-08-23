@@ -28,6 +28,8 @@ An AI powered video editing SaaS designed to automate end to end video processin
 
 Video processing and rendering are powered by **FFmpeg and Remotion**, enabling automated and efficient media workflows. Built independently from the ground up, the product spans a **10 phase development roadmap**, covering everything from **database architecture and backend systems to product engineering, automation, and brand identity**.
 
+You can try EditKar on - https://www.editkar.com/
+
 <br/>
 
 ### EV Carwale
