@@ -7,9 +7,9 @@
 <br/><br/>
 
 ⌁ About
-### About Me
+### About Me 
 
-Third-year Computer Science student and **full-stack developer** with a strong interest in **AI, product engineering, and modern web technologies**.
+Third-year Computer Science student with specialization in Blockchain Technology and **full-stack developer** with a strong interest in **AI, product engineering, and modern web technologies**.
 
 I build digital products from the ground up, working across **frontend, backend, APIs, UI/UX, and application architecture**. My technical toolkit includes **React, TypeScript, JavaScript, HTML, CSS, Node.js, REST APIs, Git**, and other modern development technologies.
 
