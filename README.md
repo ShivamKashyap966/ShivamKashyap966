@@ -20,7 +20,6 @@ I’m driven by curiosity and a simple philosophy: **learn deeply, build relentl
 
 <br/><br/>
 
-⌁ Learning Kali Linux
 ⌁ Currently Working on 
 
 ### EDITKAR
