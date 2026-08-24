@@ -20,7 +20,7 @@ I’m driven by curiosity and a simple philosophy: **learn deeply, build relentl
 
 <br/><br/>
 
-⌁ Currently Working on 
+⌁  Currently Working on 
 
 ### EDITKAR
 
