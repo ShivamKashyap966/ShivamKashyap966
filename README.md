@@ -7,7 +7,7 @@
 <br/><br/>
 
 ⌁ About
-### About
+### About Me
 
 Third-year Computer Science student and **full-stack developer** with a strong interest in **AI, product engineering, and modern web technologies**.
 
